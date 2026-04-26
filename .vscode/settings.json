@@ -1,0 +1,15 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.editor.enableAutoCompletions": false,
+  "codeex.enableAutoCompletions": false,
+  "[claude]": {
+    "editor.inlineHints.enabled": false
+  }
+}
